@@ -2,5 +2,5 @@
 
 ## CONTRIBUTORS
 
-- Assisstant Professor Dr. M. Jhamb, University School of Information, Communication and Technology, Guru Gobind Singh Indraprastha University
+- Assistant Professor Dr. M. Jhamb (mansi.jhamb@ipu.ac.in), University School of Information, Communication and Technology, Guru Gobind Singh Indraprastha University
 - Bhavdeep Singh Nijhawan
